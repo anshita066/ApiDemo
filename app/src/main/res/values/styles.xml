@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GangsterRegular">
+        <item name="fontFamily">@font/gangstergrotesk</item>
+    </style>
+    <style name="SFMono">
+        <item name="fontFamily">@font/sfmono</item></style>
+    <style name="LiteracyItalics">
+        <item name="fontFamily">@font/literacyitalic</item></style>
+</resources>
